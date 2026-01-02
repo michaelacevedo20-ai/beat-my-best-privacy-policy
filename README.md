@@ -1,54 +1,46 @@
-# beat-my-best-privacy-policy
-Privacy Policy for the Beat My Best (Me Vs Me) iOS App
 Privacy Policy for Beat My Best (Me Vs Me)
 
-Beat My Best (Me Vs Me)
+Last updated: December 2025
 
-(Fully corrected — December 2025)
+Thank you for using Beat My Best (Me Vs Me) — a motivation-driven fitness and performance app designed to help users build better habits, track progress, and create intrinsic accountability through manual data entry, with optional competitive and social features.
 
-Privacy Policy for Beat My Best (Me Vs Me)
-
-Last updated: January 2025
-
-Thank you for using Beat My Best (Me Vs Me) — a motivation-driven fitness and performance app designed to help users build better habits, track their progress, and create intrinsic accountability through manual data entry and optional competitive features.
-
-Your privacy is extremely important to us. This Privacy Policy explains what information the app collects, how it is used, and how it is protected.
+Your privacy is extremely important to us. This Privacy Policy explains what information is collected, how it is used, and how it is protected.
 
 1. Information We Collect
 
-Beat My Best collects only the information required to operate core features and optional Competitive Mode.
+Beat My Best collects only the information necessary to operate its core functionality and optional Competitive Mode.
 
-1.1. Username / Nickname
+1.1 Username / Nickname
 
-To participate in Competitive Mode, users create a username.
+To use Competitive Mode, users create a username.
 
-A default anonymous username is generated (e.g., Player4821).
+A default anonymous username may be generated (e.g., Player4821)
 
-Users may choose a custom username.
+Users may choose a custom username
 
-Users should not enter their full legal name.
+Users are advised not to use their full legal name
 
-Usernames may be visible to friends or competitive participants.
+Usernames may be visible to friends or competitive participants
 
-Usernames are stored securely in our backend.
+Usernames are stored securely in the backend
 
-1.2. Profile Picture (Optional — Stored on Device Only)
+1.2 Profile Picture (Optional)
 
-Users may optionally choose a profile photo from their device.
+Users may optionally select a profile photo from their device’s photo library.
 
-Important:
+Important clarifications:
 
-Only the selected photo is accessed.
+Only the selected photo is accessed
 
-The app does not scan or read the entire photo library.
+The app does not scan or read the full photo library
 
-Profile photos are stored locally on the device only.
+Profile photos are uploaded only if the user enables Competitive Mode
 
-Profile photos are never uploaded, transmitted, or stored in the backend.
+Profile photos are used solely for display to other users the individual chooses to interact with
 
-Users may update or remove their profile photo at any time.
+Users may change or remove their photo at any time
 
-1.3. Performance Metrics
+1.3 Performance Metrics (Manual Entry)
 
 Users may manually enter metrics such as:
 
@@ -58,66 +50,55 @@ Scores
 
 Personal bests
 
-Calories
-
-Water
-
-Prayers
-
-Exercise
+Exercise activity
 
 Sleep
 
 Fasting
 
-Leaderboard rankings (Competitive Mode only)
+Water intake
 
-Manual entries create intrinsic accountability, ensuring each achievement is earned and recorded by the user.
+Prayer or reflection tracking
 
-Users in local-only mode do not share metrics with others.
+Competitive rankings (Competitive Mode only)
 
-1.4. Contacts (Optional — Matching Only)
+All metrics are entered manually by the user, which creates intrinsic accountability by ensuring progress is intentional, earned, and self-recorded.
 
-Users may optionally grant permission to access their phone contacts in order to find friends who also use Beat My Best.
+Users who do not enable Competitive Mode keep their data local and private.
 
-When permission is granted:
+1.4 Contacts (Optional — Matching Only)
 
-The app reads names and phone numbers from the user’s contact list.
+Users may optionally grant access to their phone contacts to find friends who already use Beat My Best.
 
-Only hashed/encrypted versions of contact numbers are transmitted to the backend.
+If permission is granted:
 
-This data is used exclusively to check which contacts also use Beat My Best.
+The app reads contact names and phone numbers locally
 
-No plain-text contact lists are stored.
+Hashed/encrypted contact identifiers are sent to the backend solely for matching purposes
 
-Contacts are never visible to other users.
+No plain-text contact data is stored
 
-Contacts are never used for analytics, advertising, or third-party sharing.
+Contacts are never visible to other users
 
-Users can disable this feature at any time.
+Contacts are never used for advertising, analytics, or third-party sharing
 
-If the permission is not granted, no contacts are accessed.
+Users may disable contact access at any time. If permission is not granted, no contact data is accessed.
 
-1.5. Cloud / Backend Data
+1.5 Backend / Cloud Data
 
-If backend features are enabled, the following may be stored securely:
+If Competitive Mode or social features are enabled, the following data may be securely stored:
 
 Username
 
-Competitive Mode metrics
+Profile photo (if enabled)
+
+Performance metrics
 
 Friend connections
 
 Leaderboard results
 
 No sensitive personal information is collected.
-
-Profile photos are NOT stored in the cloud.
-
-1.6. In-App Purchases
-
-Apple may provide device identifiers and transaction information to verify purchases.
-These identifiers are processed solely by Apple and are never visible to us.
 
 2. Information We Do NOT Collect
 
@@ -127,125 +108,117 @@ Full legal names
 
 Email addresses
 
-Phone numbers (except hashed for matching)
+Plain-text phone numbers
 
-GPS or precise location
+GPS or precise location data
 
 Messages or chat content
 
-HealthKit or medical data
+HealthKit or medical records
 
-Biometrics
+Biometric data
 
 Advertising identifiers (IDFA)
 
-Behavioral analytics
-
-Third-party tracking data
-
-Photo library scans
+Behavioral or third-party analytics
 
 Audio recordings
 
-Beat My Best uses no advertising SDKs, no analytics SDKs, and no tracking technologies.
+Photo library scans
+
+The app uses no advertising SDKs, no tracking SDKs, and no third-party analytics services.
 
 3. How We Use Information
 
-We use collected data only to:
+Collected information is used only to:
 
 Enable Competitive Mode
 
-Match friends who also use the app
+Match friends who already use the app
 
 Display leaderboards
 
-Track streaks and personal goals
+Track streaks and goals
 
-Customize user profiles
+Display user profiles
 
-We do not sell, rent, or share any user information with third parties.
+We do not sell, rent, or share user data with third parties.
 
-4. Sharing With Others
+4. Sharing With Other Users
 
-Depending on user settings, the following may be visible to other users:
+Depending on user settings, the following may be visible to selected users:
 
 Username
 
-Streaks and performance metrics
+Profile photo (if enabled)
+
+Performance metrics
 
 Leaderboard rankings
 
 Users control:
 
-Whether they appear on leaderboards
-
 Whether Competitive Mode is enabled
+
+Whether they appear on leaderboards
 
 Whether friend matching is enabled
 
-Whether contacts permission is granted
+Whether contact permissions are granted
 
-Users in local-only mode remain completely private.
+Users who remain in local-only mode remain completely private.
 
 5. User-Initiated Social Sharing
 
-Users may manually share screenshots or achievements through their device’s share sheet.
+Users may choose to share achievements or screenshots via their device’s native share sheet.
 
-This sharing is:
+Sharing is fully user-initiated
 
-User-initiated only
+Sharing is handled by the operating system
 
-Handled entirely by the operating system
-
-Never accessed or collected by Beat My Best
+Beat My Best does not collect or track shared content
 
 6. Future Features
 
-Future updates may add:
-
-Team competitions
+Future updates may include:
 
 Friend groups
 
+Team competitions
+
 Private challenges
 
-Enhanced social profiles
+Expanded social profiles
 
-Any new feature that requires additional data will ask for explicit user consent.
+Any feature requiring new data collection will request explicit user consent and be reflected in an updated Privacy Policy.
 
 7. Security
 
-We use modern security measures, including:
+We use industry-standard security practices, including:
 
 iOS sandbox protections
 
-Encryption of backend data in transit and at rest
+Encrypted backend communication
 
-Limited and minimal data collection
+Minimal data collection
 
-Never uploading profile photos
+Restricted access controls
 
-Never storing full contact lists
-
-Relying on Apple for all financial processing
-
-Although no system can be completely secure, we maintain strong best practices.
+While no system is 100% secure, we take strong measures to protect user information.
 
 8. Children’s Privacy
 
-Beat My Best does not knowingly collect personal information from children.
-Parental guidance is recommended when minors use competitive or social features.
+Beat My Best does not knowingly collect personal information from children. Parental guidance is recommended when minors use competitive or social features.
 
 9. Changes to This Policy
 
-We may update this Privacy Policy as the app evolves.
-Changes will always appear at this public URL.
+This Privacy Policy may be updated as features evolve. The latest version will always be available at this public URL.
 
 10. Contact Us
 
-For questions or support:
+For privacy questions or support:
 
 Developer: Michael Acevedo
-Support Email: [Insert your preferred email]
+Support Email: (add your preferred email here)
 
 End of Privacy Policy
